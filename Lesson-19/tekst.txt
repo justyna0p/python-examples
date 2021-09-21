@@ -1,0 +1,63 @@
+COVID-19 (od ang. coronavirus disease 2019)[6] – ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem SARS-CoV-2[7][8]. Została po raz pierwszy rozpoznana i opisana w listopadzie 2019, w środkowych Chinach (miasto Wuhan, w prowincji Hubei) podczas serii zachorowań zapoczątkowującej pandemię tej choroby[9][10][11][12].
+
+Standardową metodą diagnozowania zakażenia jest test łańcuchowej reakcji polimerazy w czasie rzeczywistym z odwrotną transkryptazą (RT-qPCR, real-time RT-PCR) wykonany z wymazu nosowo-gardłowego lub próbki plwociny, który dostarcza wyniki w czasie od kilku godzin do dwóch dni. Analiza przeciwciał z próbki surowicy krwi również może być wykorzystana jako metoda diagnostyczna, pozwalająca na otrzymanie wyniku w ciągu kilku dni[13]. Choroba może także zostać zdiagnozowana na podstawie oceny kombinacji objawów, czynników ryzyka oraz wyniku badania tomografii komputerowej klatki piersiowej, wykazującego cechy zapalenia płuc[14][15].
+
+Stanowisko WHO na podstawie danych z 3 marca 2020 mówi o śmiertelności (CFR – case fatality rate, czyli liczba zgonów na zarejestrowane przypadki zachorowania) na poziomie 3,4%[16]. Obecnie śmiertelność w Polsce wynosi 2,29%[17]. 30 stycznia 2020 roku WHO ogłosiło stan zagrożenia dla zdrowia publicznego o zasięgu międzynarodowym w wyniku rozprzestrzeniającej się epidemii COVID-19[18][19]. 11 marca 2020 WHO uznała serię zachorowań na COVID-19 występującą od listopada 2019 za pandemię[20][21].
+
+
+Potwierdzone przypadki COVID-19 w poszczególnych krajach (animacja mapy obejmuje okres od 12 stycznia do 29 lutego 2020)
+
+Potwierdzone przypadki COVID-19 na świecie (stan na 25 marca 2020)
+     ≥10000
+
+     1000–9999
+
+     100–999
+
+     10–99
+
+     1–9
+
+
+Punkt szczepień przeciw COVID-19 w Centrum Sportu Gdańskiego Uniwersytetu Medycznego
+
+Spis treści
+1	Przyczyna
+2	Objawy
+3	Przebieg choroby
+3.1	Symptomy i możliwe powikłania
+3.2	Diagnostyka laboratoryjna i obrazowa
+3.3	Udział przypadków ciężkich i śmiertelnych
+4	Rozprzestrzenianie
+5	Diagnozowanie
+6	Zapobieganie
+6.1	Spłaszczenie krzywej zachorowań
+6.2	Zalecenia WHO
+6.3	W Polsce
+6.3.1	Zasady kwarantanny w Polsce
+6.3.2	Zasady izolacji w Polsce
+6.4	Kontrowersje
+7	Leczenie
+7.1	Respiratory na zasadach otwartoźródłowych
+7.2	Stosowanie amantadyny
+8	Przebieg pandemii
+9	Śmiertelność
+10	Dezinformacja
+11	Zobacz też
+12	Uwagi
+13	Przypisy
+14	Linki zewnętrzne
+Przyczyna
+ Główny artykuł: SARS-CoV-2.
+Choroba COVID-19 jest powodowana przez wirus SARS-CoV-2, który jest spokrewniony z wirusem SARS[7][22][23] i wcześniej był nazywany roboczo „2019-nCoV” (z ang. 2019 novel coronavirus)[7][8].
+
+W listopadzie 2019 po raz pierwszy zdiagnozowano chorobę w chińskiej prowincji Hubei, której stolicą jest Wuhan. Chińscy naukowcy wskazali, że źródłem nowego koronawirusa są zwierzęta[24] i potencjalnym nosicielem pośrednim mogą być łuskowce[a][25].
+
+W marcu 2020 roku naukowcy z Toronto, w tym mikrobiolog kliniczny z Uniwersytetu Toronto dr Robert Kozak, wyizolowali koronawirusa SARS-CoV-2, co stanowiło istotny etap w opracowaniu leku i szczepionek[26].
+
+Objawy
+Większość pacjentów ma łagodne objawy i dobre rokowania, do typowych początkowych objawów choroby zaliczają się gorączka, suchy kaszel, zmęczenie i płytki oddech[27][28][29]. Do mniej częstych objawów należą m.in.: odkrztuszanie plwociny, ból głowy, dreszcze, krwioplucie, bóle w klatce piersiowej, biegunka, nudności i wymioty, ból gardła[30][31]. Większość przypadków choroby ma łagodny przebieg[32], jednak część może prowadzić do zapalenia płuc lub niewydolności wielonarządowej[9][10]. U niektórych pacjentów występują wyłącznie objawy żołądkowo-jelitowe, co może wynikać z zakażenia drogą pokarmową (np. przez zanieczyszczenie fekaliami)[33].
+
+Rozwijające się zakażenie wirusem może prowadzić do zapalenia płuc, zespołu ostrej niewydolności oddechowej, posocznicy i wstrząsu septycznego oraz do śmierci[9][10][34][35]. Najczęstszy okres wylęgania wirusa wynosi do 14 dni, a jego mediana wynosi 5–6 dni[34][36].
+
+Na podstawie danych dostarczonych przez 55 924 potwierdzonych badaniami laboratoryjnymi przypadków zachorowań na COVID-2019 w Chinach, WHO wyszczególniło częstość występowania poniższych objawów[37]:
