@@ -65,6 +65,9 @@ def validate_IP_address(address):
     except socket.error:
         raise ValueError("Incorrect IP address")
 
+def alternative_binary_conversion(ip):
+    return ''.join([bin(int(x) + 256)[3:] for x in ip.split('.')])
+
 
 
 #Task: Change from "." in IP address to "[.]"
@@ -79,3 +82,6 @@ print(converted_bianry)
 bianry_address = convert_IP_address_to_bianry(address)
 print(bianry_address)
 
+ip = "255.255.255.255"
+alternative_result = alternative_binary_conversion(ip)
+print(alternative_result)
