@@ -1,5 +1,3 @@
-#Task: Change from "." in IP address to "[.]"
-
 def change_IP_address(address):
     new_address = address.replace(".", "[.]")
     return new_address
@@ -49,9 +47,22 @@ def convert_number_to_binary(number):
 
     return binary
 
+def convert_IP_address_to_bianry(address):
+    splitted = address.split(".")
+    binary_IP = ""
+    for n in splitted:
+        binary_IP += convert_number_to_binary(int(n))
+
+    return binary_IP
+
+#Task: Change from "." in IP address to "[.]"
 address = "192.168.8.10"
 print(change_IP_address(address))
 
+#Task: Change IP address into binary address
 number = 180
 converted_bianry = convert_number_to_binary(number)
 print(converted_bianry)
+
+bianry_address = convert_IP_address_to_bianry(address)
+print(bianry_address)
