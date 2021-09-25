@@ -1,3 +1,5 @@
+import socket
+
 def change_IP_address(address):
     new_address = address.replace(".", "[.]")
     return new_address
@@ -48,12 +50,22 @@ def convert_number_to_binary(number):
     return binary
 
 def convert_IP_address_to_bianry(address):
+    validate_IP_address(address)
     splitted = address.split(".")
     binary_IP = ""
     for n in splitted:
         binary_IP += convert_number_to_binary(int(n))
 
     return binary_IP
+
+def validate_IP_address(address):
+    try:
+        socket.inet_aton(address)
+        # legal
+    except socket.error:
+        raise ValueError("Incorrect IP address")
+
+
 
 #Task: Change from "." in IP address to "[.]"
 address = "192.168.8.10"
@@ -66,3 +78,4 @@ print(converted_bianry)
 
 bianry_address = convert_IP_address_to_bianry(address)
 print(bianry_address)
+
